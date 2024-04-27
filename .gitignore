@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.db
+
+# Django-related files
+db.sqlite3
+db.sqlite3-journal
+*.db
+*.log
+*.pot
+*.potx
+
+# Static and media files
+/static/
+/media/
+
+# Django migrations
+/migrations/
+
+# Local settings files
+*.env
+local_settings.py
+settings_local.py
+config.py
+
+# MacOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
